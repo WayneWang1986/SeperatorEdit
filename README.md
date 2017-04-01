@@ -3,7 +3,7 @@
 When you input a long sequence of digits, such as credit card number, ID number or phone number, it's often a good practice to add separators between different parts of the sequence. This customized EditText can make this easy. You can specify certain String as separator, set max input count of the digit sequence and fully control where to add a separator.
 
 
-![Alt text](./sample.gif)
+![](http://i2.muimg.com/567571/d4fe00581e1e9426.gif)
 
 ### How to use?
 
