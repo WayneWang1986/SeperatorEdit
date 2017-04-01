@@ -1,15 +1,15 @@
-##An EditText for number input with separators.
+## An EditText for number input with separators.
 
 When you input a long sequence of digits, such as credit card number, ID number or phone number, it's often a good practice to add separators between different parts of the sequence. This customized EditText can make this easy. You can specify certain String as separator, set max input count of the digit sequence and fully control where to add a separator.
 
 
 ![Alt text](./sample.gif)
 
-###How to use?
+### How to use?
 
 Copy **SeparatorEditText.java** to your project and enjoy using it.
 
-###Customization
+### Customization
 SeparatorEditText has several methods for your customization:
 - setSeparator: set arbitrary string used as separator.
 - setMax: set max input digit count for the edit, any input beyond the limit is invalid.
